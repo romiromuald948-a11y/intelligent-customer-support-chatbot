@@ -23,7 +23,7 @@ def get_user_language(user_id):
     return result[0] if result else 'fr'
 
 # API Cohere
-co = cohere.Client("JJtTpVSMoYkJzfrIGCJq1s1JEFYAhZRItvB47LjR")
+co = cohere.Client("VOTRE_CLE_API")
 
 nltk.download('punkt', quiet=True)
 

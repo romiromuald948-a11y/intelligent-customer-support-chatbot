@@ -1,6 +1,6 @@
 <?php
 function getHFResponse($message) {
-    $token = "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"; // ← ton token Hugging Face
+    $token = "VOTRE_CLE_API"; // ← ton token Hugging Face
     $token = "TA_CLE_API"; // ← ton token Hugging Face
     $url = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct";
 

@@ -162,7 +162,7 @@ Question : $question
 
 // Fonction pour structurer la réponse avec Hugging Face API
 function structure_response_with_hf($raw_response, $langue) {
-    $hf_api_key = "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"; // Remplacez par votre clé API Hugging Face
+    $hf_api_key = "VOTRE_CLE_API"; // Remplacez par votre clé API Hugging Face
     $prompt = "
 Structure la réponse suivante en Markdown pour un chat, en $langue :
 - Utilise des **mots-clés en gras**.

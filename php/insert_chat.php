@@ -124,7 +124,7 @@ function recherche_similaire($question, $phrases, $tfidf_matrix, $all_terms, $do
 
 // Reformulation avec Cohere via cURL
 function reformuler_texte($contenu, $question, $langue = "fr") {
-    $api_key = "JJtTpVSMoYkJzfrIGCJq1s1JEFYAhZRItvB47LjR";
+    $api_key = "VOTRE_CLE_API";
     $prompt = "
 Tu es Green Chat, assistant virtuel de Green Engineering SARL. Voici des informations de l'entreprise :
 \"$contenu\"

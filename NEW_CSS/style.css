@@ -1,0 +1,119 @@
+:root {
+  --green: #1e824c;
+  --dark-green: #145a32;
+  --light-green: #eafaf1;
+  --gray: #f5f5f5;
+  --white: #ffffff;
+  --danger: #e74c3c;
+}
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: var(--light-green);
+  margin: 0;
+  padding: 0;
+}
+
+/* Conteneur principal */
+.form-container {
+  max-width: 420px;
+  margin: 60px auto;
+  padding: 25px;
+  background: var(--white);
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  border-top: 5px solid var(--green);
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+/* Animation d'apparition */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Titre */
+.form-container h3 {
+  text-align: center;
+  color: var(--green);
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Champs de saisie */
+.box {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0 18px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.box:focus {
+  border-color: var(--green);
+  outline: none;
+  box-shadow: 0 0 5px rgba(30, 130, 76, 0.3);
+}
+
+/* Bouton */
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  background: var(--green);
+  color: var(--white);
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background: var(--dark-green);
+}
+
+/* Messages d'erreur / alertes */
+.alert {
+  padding: 10px;
+  margin-bottom: 15px;
+  background: #fdecea;
+  color: var(--danger);
+  border-left: 5px solid var(--danger);
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+/* Liens */
+p {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+p a {
+  color: var(--green);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+.chat-btn {
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 15px;
+    background-color: #2e7d32; /* Vert Green Engineering */
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.chat-btn:hover {
+    background-color: #1b5e20;
+}

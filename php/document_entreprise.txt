@@ -1,0 +1,96 @@
+[HISTORIQUE]
+Green Engineering SARL est une entreprise camerounaise fondée en octobre 2021 par Monsieur MBAKAM GUILLAUME CHOUGA. Elle propose des solutions techniques locales dans les domaines industriels et environnementaux, avec un engagement pour l’innovation et l’autonomie technologique.
+
+[ACTIVITÉS PRINCIPALES]
+- Reconditionnement d’huiles moteurs usagées
+- Fabrication de scellés pour bouteilles de gaz
+- Développement de produits d’entretien automobile
+
+[INFRASTRUCTURE]
+Localisation : Yaoundé 3ème, Afanoyoa, route de Mbankomo  
+
+[PRODUITS]
+Lubrifiants industriels ou produits produit et vendu :
+- Huiles moteurs : 15W40, SAE40, 20W50
+- Huiles hydrauliques : DEXIII
+- Graisses mécaniques et pour moteurs
+- Scellés de gaz
+
+[GUIDE DE CHOIX DE L’HUILE]  
+Pour choisir l’huile adaptée, voici les recommandations :
+
+- **15W‑40** : pour la plupart des moteurs essence ou diesel modernes dans des climats chauds. Viscocité fiable, protection à chaud.  
+- **SAE 40** : idéal pour moteurs anciens qui ne démarrent pas à froid ou fonctionnent à température stable.  
+- **20W‑50** : pour moteurs plus anciens, puissants ou exposés à haute température.  
+- **80W‑90** : lubrifiant pour boîtes de vitesses/transmissions uniquement, **pas pour moteur**.  
+- **DEX III** : destiné aux transmissions automatiques ou systèmes hydrauliques, **pas adapté comme huile moteur**.
+
+[CONSEILS]
+- Vérifie toujours le manuel du véhicule
+- Respecte les normes API/ACEA
+- Choisis une viscosité adaptée au climat
+- Privilégie des marques reconnues (Castrol, Shell, Liqui Moly)
+
+[FOCUS : SAE 40]
+Huile monograde recommandée pour moteurs anciens ou en conditions stables.  
+Avantages :
+- Protection contre l’usure et les dépôts
+- Bonne lubrification à haute température
+- Idéale pour engins industriels, travaux publics  
+À éviter sur moteurs récents.
+
+[CULTURE D’ENTREPRISE]
+- Autonomie technique
+- Durabilité industrielle
+- Recherche appliquée locale
+- Respect de l’environnement
+- Innovation continue
+
+[FONDATEUR]
+Monsieur MBAKAM GUILLAUME CHOUGA supervise la stratégie et le développement technique et humain de Green Engineering SARL.
+
+[COMMANDES - PROCÉDURE]
+Pour commander, écrivez dans le chat en précisant le produit et la quantité.  
+Exemples :
+- Je veux 10 litres de 15W40
+- Je voudrais un bidon d’huile hydraulique
+- Il me faut 5 sacs de ciment
+
+Ensuite, le bot vous demandera :
+- Votre nom
+- Le lieu de livraison
+- Votre numéro de téléphone
+- Votre email
+
+Une fois ces infos fournies, votre commande est enregistrée. Un conseiller vous recontactera pour finaliser la livraison.
+
+[PRIX DES PRODUITS]
+
+Voici les prix indicatifs des huiles proposées par Green Engineering :
+
+1. **Huile moteur 15W40**
+   - 40 000 FCFA / bidon de 20 litres
+   - 30 000 FCFA / carton de 12 litres (12 bouteilles de 1 litre)
+
+2. **Huile moteur SAE40**
+   - 40 000 FCFA / bidon de 20 litres
+   - 30 000 FCFA / carton de 12 litres (12 bouteilles de 1 litre)
+
+3. **Huile moteur 20W50**
+   - 40 800 FCFA / bidon de 20 litres
+   - 30 000 FCFA / carton de 12 litres (12 bouteilles de 1 litre)
+
+4. **Huile de boîte 80W90**
+   - 77 000 FCFA / bidon de 20 litres
+
+5. **Huile automatique DEX III**
+   - 8 500 FCFA / bidon de 5 litres
+
+**Remarques importantes :**
+- Les prix sont **susceptibles de varier** en fonction de la **quantité commandée** ou de la **localisation de livraison**.
+- Pour toute **négociation de prix** ou demande spéciale, un **agent commercial vous contactera** après votre commande ou demande.
+
+
+[LOCALISATION]
+
+L’usine de Green Engineering est située à Yaoundé, a AFANAYO plus précisément à Mvog-Et-Tigui.

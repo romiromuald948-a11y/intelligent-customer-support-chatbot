@@ -1,0 +1,59 @@
+
+  .feedback-form-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    display: block; /* Assure que l'élément est visible */
+  }
+
+  .feedback-form {
+    background-color: #f0f8f4;
+    border: 2px solid #006400;
+    border-radius: 10px;
+    padding: 15px;
+    max-width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    color: #333;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  .feedback-form p {
+    font-weight: bold;
+    color: #006400;
+  }
+
+  .feedback-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10px;
+    resize: vertical;
+  }
+
+  .feedback-form-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+
+  .feedback-form-buttons button {
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .feedback-form-buttons button:first-child {
+    background-color: #006400;
+    color: white;
+    border: none;
+  }
+
+  .feedback-form-buttons button:last-child {
+    background-color: #fff;
+    color: #006400;
+    border: 1px solid #006400;
+  }

@@ -1,0 +1,144 @@
+:root {
+  --green: #009e60;
+  --blue: #0078d7;
+  --white: #ffffff;
+  --light-bg: #f5f5f5;
+  --text: #333;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  0% { opacity: 0; transform: translateY(30px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: var(--white);
+  color: var(--text);
+  overflow-x: hidden;
+}
+
+/* Header */
+header {
+  background: linear-gradient(to right, var(--green), var(--blue));
+  padding: 25px 10px;
+  text-align: center;
+  color: var(--white);
+  box-shadow: 0 0 12px var(--blue);
+  animation: fadeInUp 1s ease-out;
+}
+
+nav a {
+  margin: 0 12px;
+  color: var(--white);
+  text-decoration: none;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 6px;
+  transition: background 0.3s;
+}
+nav a:hover {
+  background-color: var(--white);
+  color: var(--green);
+}
+
+/* Hero */
+.hero {
+  background-color: #e5f7ed;
+  text-align: center;
+  padding: 60px 20px;
+  animation: fadeInUp 1.2s ease-out;
+}
+.hero h1 {
+  font-size: 48px;
+  color: var(--green);
+}
+.hero p {
+  font-size: 18px;
+  color: #555;
+}
+
+/* Bouton */
+.btn {
+  margin-top: 20px;
+  background-color: var(--blue);
+  color: var(--white);
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  transition: 0.3s ease;
+}
+.btn:hover {
+  background-color: #005ea6;
+}
+
+/* Services */
+.services, .faq {
+  padding: 50px 20px;
+  animation: fadeInUp 1.3s ease-out;
+}
+.services {
+  background-color: var(--light-bg);
+  text-align: center;
+}
+.services h2, .faq h2 {
+  color: var(--blue);
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+.services li {
+  list-style: none;
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+/* FAQ */
+.faq {
+  background-color: #e9f4fc;
+}
+.faq-item {
+  margin-bottom: 20px;
+  border-left: 4px solid var(--green);
+  padding-left: 12px;
+}
+.faq-item h3 {
+  font-size: 20px;
+  color: var(--green);
+  margin-bottom: 5px;
+}
+.faq-item p {
+  font-size: 16px;
+  color: #555;
+}
+
+/* Footer */
+footer {
+  background-color: var(--green);
+  color: var(--white);
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+  animation: fadeInUp 1.5s ease-out;
+}
+
+.chat-btn {
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 15px;
+    background-color: #2e7d32; /* Vert Green Engineering */
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.chat-btn:hover {
+    background-color: #1b5e20;
+}
